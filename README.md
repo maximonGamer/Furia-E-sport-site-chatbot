@@ -1,3 +1,51 @@
+
+
+![image](https://github.com/user-attachments/assets/552fd2fd-68ea-4e19-b66e-04b0a6051a28)
+
+Resumo de Como o Projeto FURIA Chatbot Foi Feito
+Planejamento e Estruturação:
+
+O objetivo do projeto foi criar um site para a FURIA com um chatbot interativo integrado.
+
+O site foi projetado para destacar jogadores da FURIA em diversos jogos, como CS:GO, LoL, e Valorant, além de incluir seções de conquistas e notícias.
+
+Tecnologias Utilizadas:
+
+Frontend: O site foi desenvolvido usando React com Next.js para garantir boa performance e SEO. Tailwind CSS foi usado para o estilo e responsividade.
+
+Backend: A comunicação com o chatbot foi feita através de uma API real conectada ao frontend, permitindo interações dinâmicas.
+
+Banco de Dados: Informações sobre jogadores e conquistas foram armazenadas e recuperadas usando Firebase Firestore.
+
+Deploy: O projeto foi conectado ao GitHub e Vercel para deploy contínuo e atualização automática toda vez que o código fosse atualizado no GitHub.
+
+Funcionalidades Implementadas:
+
+Seção de Jogadores: Exibição dos jogadores da FURIA com informações detalhadas como nome, posição, e estatísticas de cada jogo.
+
+Chatbot Funcional: O chatbot foi integrado ao site, utilizando uma API real para simular conversas com os visitantes, permitindo interação automatizada.
+
+Seção de Conquistas: Incluiu troféus e prêmios conquistados pela FURIA, com animações e ícones para destacar cada conquista.
+
+Notícias: Seção de atualizações sobre a FURIA, usando fontes reais para garantir informações precisas.
+
+Design e Responsividade:
+
+O design do site foi feito para ser moderno e visualmente refinado, com cartões compactos para destacar informações de jogadores e troféus.
+
+Foi dado foco à responsividade do site, garantindo uma boa experiência em dispositivos móveis e desktops.
+
+Integração com GitHub e Vercel:
+
+O código foi versionado no GitHub e deployado no Vercel, garantindo que qualquer alteração feita no código fosse automaticamente atualizada no ambiente de produção.
+
+O Vercel foi configurado para fazer o deploy contínuo, ou seja, sempre que um push era feito para o repositório GitHub, o Vercel automaticamente atualizava o site.
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started

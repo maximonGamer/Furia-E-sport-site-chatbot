@@ -19,7 +19,7 @@ const jogadores: Jogador[] = [
 
   // League of Legends
   { nome: 'Guigo', jogo: 'LoL', imagem: '/images/jogadores/guigo.jpg', funcao: 'Top Laner' },
-  { nome: 'ranger', jogo: 'LoL', imagem: '/images/jogadores/ranger.jpg', funcao: 'Jungler' },
+  { nome: 'rangerr', jogo: 'LoL', imagem: '/images/jogadores/ranger.jpg', funcao: 'Jungler' },
   { nome: 'Envy', jogo: 'LoL', imagem: '/images/jogadores/envy.jpg', funcao: 'Mid Laner' },
   { nome: 'Netuno', jogo: 'LoL', imagem: '/images/jogadores/netuno.jpg', funcao: 'ADC' },
   { nome: 'RedBert', jogo: 'LoL', imagem: '/images/jogadores/redbert.jpg', funcao: 'Support' },
