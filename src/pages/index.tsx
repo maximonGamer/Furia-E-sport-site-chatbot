@@ -78,9 +78,9 @@ const Conquistas = () => {
 const NoticiasReais = () => {
   const noticias = [
     { 
-      titulo: 'FURIA apresenta nova line-up de VALORANT para 2025', 
+      titulo: 'FURIA COGITA MANTER APENAS HEAT NO ELENCO DE VALORANT', 
       data: '15 de Abril de 2025', 
-      link: 'https://valorantzone.gg/noticia/furia-apresenta-nova-line-up-de-valorant-com-heat-e-raafa-para-temporada-2025/',
+      link: 'https://www.thespike.gg/br/valorant/news/furia-heat-valorant/6077',
       resumo: 'Nova formação traz jogadores promissores do cenário nacional'
     },
     { 
@@ -98,7 +98,7 @@ const NoticiasReais = () => {
     { 
       titulo: 'FURIA Esports Announces Major Roster Overhaul', 
       data: '18 de Abril de 2025', 
-      link: 'https://juked.gg/counter-strike/news/furia-esports-announces-major-roster-overhaul/',
+      link: 'https://juked.gg/counter-strike/news/furia-esports-announces-major-roster-overhaul-to-boost-global-competitiveness/#:~:text=FURIA%20Esports%20Plans%20Major%20Roster%20Changes&text=The%20overhaul%20of%20the%20team,a%20move%20to%20the%20bench.',
       resumo: 'Reestruturação para competições globais'
     },
   ];
